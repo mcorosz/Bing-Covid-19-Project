@@ -18,7 +18,7 @@ This project explores the relationship between daily confirmed COVID-19 cases an
 [StockAdjClose_2020_2023_PandemicSensitive.csv](https://raw.githubusercontent.com/mcorosz/Bing-Covid-19-Project/main/StockAdjClose_2020_2023_PandemicSensitive.csv)
 
 ### COVID-19 Case Data
-- Source: [Insert source — e.g., Johns Hopkins CSSE, Bing dataset, etc.]
+- Source: [Covid Bing dataset]
 - Aggregated to daily U.S. total case counts
 - Merged with stock data for time-aligned analysis
 
