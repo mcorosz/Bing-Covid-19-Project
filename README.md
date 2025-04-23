@@ -1,4 +1,4 @@
-# Bing COVID-19 Stock & Case Data Analysis
+# Bing COVID-19 Cases & Stock Data Analysis
 
 This project explores the relationship between daily confirmed COVID-19 cases and adjusted close stock prices for 15 publicly traded companies across healthcare, travel, e-commerce, and retail sectors.
 
