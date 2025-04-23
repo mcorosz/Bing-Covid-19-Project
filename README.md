@@ -24,8 +24,6 @@ This project explores the relationship between daily confirmed COVID-19 cases an
 
 ## Business Questions Explored
 - How did pandemic-sensitive stocks respond to confirmed COVID-19 case surges?
-- Which sectors showed the strongest correlation with daily case counts?
-- Can case data act as a leading indicator for certain stocks?
 
 ## Tools Used
 - Python (pandas, yfinance)
