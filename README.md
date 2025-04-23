@@ -6,7 +6,7 @@ This project explores the relationship between daily confirmed COVID-19 cases an
 
 ### Stock Data
 - Source: [Yahoo Finance](https://finance.yahoo.com/)
-- Accessed via: [`yfinance`](https://github.com/ranaroussi/yfinance) Python package
+- Accessed via: [`yfinance`](https://yfinance-python.org/) Python package
 - Date Range: 2020-03-16 to 2023-02-02
 - Contains adjusted close prices for 15 tickers:
   - `MRNA`, `PFE`, `BNTX`, `ABT` *(Healthcare)*
