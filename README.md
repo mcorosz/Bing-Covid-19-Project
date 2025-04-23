@@ -22,7 +22,7 @@ This project explores the relationship between daily confirmed COVID-19 cases an
 - Aggregated to daily U.S. total case counts
 - Merged with stock data for time-aligned analysis
 
-## Business Questions Explored
+## Business Question Explored
 - How did pandemic-sensitive stocks respond to confirmed COVID-19 case surges?
 
 ## Tools Used
